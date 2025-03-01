@@ -11,6 +11,7 @@ LeetCode PS 정리 리포지토리
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gwoprk98/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/gwoprk98/LeetCode/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
