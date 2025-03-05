@@ -7,6 +7,7 @@ LeetCode PS 정리 리포지토리
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gwoprk98/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/gwoprk98/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ LeetCode PS 정리 리포지토리
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gwoprk98/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/gwoprk98/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 ## Array
 |  |
 | ------- |
